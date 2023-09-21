@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=0288D1&height=148&section=header&text=Kim%20Kyung%20Bien&fontSize=72)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=0288D1&height=148&section=header&text=Kim%20Kyung%20Bien&fontSize=72&align=center)
 
 <h2 align="center">Korea University</h2>
 
