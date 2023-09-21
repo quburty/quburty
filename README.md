@@ -29,8 +29,8 @@
  
 | 🚀 Me    |
 | -------------  |
-| 🔭 B.S.  Korea University :: Department of Material Science And Engineering |
-| 🪖 Republic of Korea Army (2021.06.~2022.12.) |
+|  B.S.  Korea University :: Department of Material Science And Engineering |
+|  Republic of Korea Army (2021.06.~2022.12.) |
 | 🤖 Currently University Student & Freelancer |
 
 </div>
